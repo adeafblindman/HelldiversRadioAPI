@@ -1,0 +1,223 @@
+{
+  "success": true,
+  "timestamp": "2025-08-11T20:45:32Z",
+  "cache_duration_seconds": 5,
+  "total_active_operations": 2,
+  "operations": [
+    {
+      "opcode": "C004",
+      "opname": "Saving Sgt Kuro",
+      "duration": 72,
+      "launch_time": "2025-08-08T04:00:00",
+      "is_closed": false,
+      "operation_type": "Clan Order",
+      "time_remaining": "15h 23m",
+      "launch_date_formatted": "August 08, 2025 at 04:00 AM UTC",
+      "basic_stats": {
+        "signups": 19,
+        "clans_signed_up": 14,
+        "total_reports": 70,
+        "avg_reports_per_user": 3.7
+      },
+      "mission_metrics": {
+        "Civilian Evac Missions Completed": 114,
+        "Escape Pods Secured": 130,
+        "LIDAR Stations Activated": 115
+      },
+      "top_clans_by_reports": [
+        {
+          "clan_name": "117th Salamander Regiment",
+          "report_count": 17
+        },
+        {
+          "clan_name": "Wraith Corps",
+          "report_count": 10
+        },
+        {
+          "clan_name": "Noble Team IV Nightfall",
+          "report_count": 9
+        },
+        {
+          "clan_name": "14th Ursine Corps",
+          "report_count": 8
+        },
+        {
+          "clan_name": "DC3QK",
+          "report_count": 7
+        }
+      ],
+      "top_players_by_reports": [
+        {
+          "display_name": "efrenespartano",
+          "report_count": 17
+        },
+        {
+          "display_name": "live_galaxy45",
+          "report_count": 9
+        },
+        {
+          "display_name": "osothechef",
+          "report_count": 8
+        },
+        {
+          "display_name": "culturekeepersmedia",
+          "report_count": 8
+        },
+        {
+          "display_name": "luist894778",
+          "report_count": 7
+        }
+      ],
+      "top_clans_by_metric": {
+        "Civilian Evac Missions Completed": [
+          {
+            "clan_name": "Noble Team IV Nightfall",
+            "total": 58
+          },
+          {
+            "clan_name": "Wraith Corps",
+            "total": 21
+          },
+          {
+            "clan_name": "14th Ursine Corps",
+            "total": 18
+          },
+          {
+            "clan_name": "Super Earth's Finest (S.E.F.)",
+            "total": 5
+          },
+          {
+            "clan_name": "S.T.I.M. Division",
+            "total": 4
+          }
+        ],
+        "Escape Pods Secured": [
+          {
+            "clan_name": "Noble Team IV Nightfall",
+            "total": 45
+          },
+          {
+            "clan_name": "Wraith Corps",
+            "total": 25
+          },
+          {
+            "clan_name": "14th Ursine Corps",
+            "total": 19
+          },
+          {
+            "clan_name": "(Individual)",
+            "total": 14
+          },
+          {
+            "clan_name": "117th Salamander Regiment",
+            "total": 13
+          }
+        ],
+        "LIDAR Stations Activated": [
+          {
+            "clan_name": "Noble Team IV Nightfall",
+            "total": 35
+          },
+          {
+            "clan_name": "Wraith Corps",
+            "total": 23
+          },
+          {
+            "clan_name": "14th Ursine Corps",
+            "total": 20
+          },
+          {
+            "clan_name": "117th Salamander Regiment",
+            "total": 13
+          },
+          {
+            "clan_name": "Super Earth's Finest (S.E.F.)",
+            "total": 9
+          }
+        ]
+      },
+      "top_players_by_metric": {
+        "Civilian Evac Missions Completed": [
+          {
+            "display_name": "live_galaxy45",
+            "total": 58
+          },
+          {
+            "display_name": "osothechef",
+            "total": 18
+          },
+          {
+            "display_name": "culturekeepersmedia",
+            "total": 16
+          },
+          {
+            "display_name": "heltaskelta_",
+            "total": 5
+          },
+          {
+            "display_name": "sarah_saurus",
+            "total": 5
+          }
+        ],
+        "Escape Pods Secured": [
+          {
+            "display_name": "live_galaxy45",
+            "total": 45
+          },
+          {
+            "display_name": "culturekeepersmedia",
+            "total": 21
+          },
+          {
+            "display_name": "osothechef",
+            "total": 19
+          },
+          {
+            "display_name": "efrenespartano",
+            "total": 13
+          },
+          {
+            "display_name": "patchdf",
+            "total": 9
+          }
+        ],
+        "LIDAR Stations Activated": [
+          {
+            "display_name": "live_galaxy45",
+            "total": 35
+          },
+          {
+            "display_name": "osothechef",
+            "total": 20
+          },
+          {
+            "display_name": "culturekeepersmedia",
+            "total": 20
+          },
+          {
+            "display_name": "efrenespartano",
+            "total": 13
+          },
+          {
+            "display_name": "heltaskelta_",
+            "total": 9
+          }
+        ]
+      },
+      "all_registered_clans": [
+        "117th Salamander Regiment",
+        "135th Grenadiers",
+        "14th Ursine Corps",
+        "1st Hell Marines Chapter",
+        "76th Recon Wing",
+        "A.W.A Regiment",
+        "Atlas Corporation",
+        "DC3QK",
+        "Deathwatch",
+        "HellDads",
+        "Noble Team IV Nightfall",
+        "S.T.I.M. Division",
+        "Super Earth's Finest (S.E.F.)",
+        "Wraith Corps"
+      ]
+    },
